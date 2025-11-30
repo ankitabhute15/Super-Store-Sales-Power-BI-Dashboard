@@ -21,22 +21,22 @@ The dataset includes:
 - Time Data: Order date, Ship date
 
 ### Key Features
-1. Interactive slicers for Category, Sub-Category, Region, State, Segment
-2. KPI cards for total sales, total profit, average discount, quantity sold
-3. Profitability analysis using stacked bar charts & matrices
-4. Product-wise comparison for better inventory planning
-5. Geo-map to visualize top-performing states
-6. Customer-level contribution analysis
+- Interactive slicers for Category, Sub-Category, Region, State, Segment
+- KPI cards for total sales, total profit, average discount, quantity sold
+- Profitability analysis using stacked bar charts & matrices
+- Product-wise comparison for better inventory planning
+- Geo-map to visualize top-performing states
+- Customer-level contribution analysis
 
 ### Questions(KPIs)
-1. What are the total Sales, Profit, Quantity sold, and Average Discount?
-2. Which Category and Sub-category generate the highest revenue?
-3. Which States contribute the most to Sales and Profit?
-4. Who are the most valuable customers?
-5. What is the monthly Sales Trend?
-6. Which payment modes are most used?
-7. Which shipping modes are most preferred?
-8. Which Segment performs best?
+- What are the total Sales, Profit, Quantity sold, and Average Discount?
+- Which Category and Sub-category generate the highest revenue?
+- Which States contribute the most to Sales and Profit?
+- Who are the most valuable customers?
+- What is the monthly Sales Trend?
+- Which payment modes are most used?
+- Which shipping modes are most preferred?
+- Which Segment performs best?
 
 ### Tools & Skills Used
 - Power BI Desktop
